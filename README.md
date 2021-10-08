@@ -1,3 +1,7 @@
 # assignment16!
 this calculator is working hard and made by shady handcraft :)
-(https://user-images.githubusercontent.com/88148144/136577476-9bd148c4-4c25-4077-9eca-b483b0014791.png)
+
+
+
+
+![Untitled6](https://user-images.githubusercontent.com/88148144/136578312-a32ef0de-767a-4e0f-bb1c-9420e7291c3a.png)
